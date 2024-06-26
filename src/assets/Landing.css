@@ -1,0 +1,13 @@
+.home-main {
+  height: 80vh;
+}
+.start-button {
+  width: 120px;
+}
+@media (min-width: 768px) {
+  .start-button,
+  .home-main h3,
+  .home-main p {
+    margin-left: 100px;
+  }
+}

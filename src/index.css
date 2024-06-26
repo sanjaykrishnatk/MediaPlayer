@@ -1,0 +1,10 @@
+* {
+  font-family: "Arimo", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+@media (max-width: 600px) {
+  #rm-small {
+    display: none;
+  }
+}

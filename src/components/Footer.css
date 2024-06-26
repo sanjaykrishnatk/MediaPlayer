@@ -1,0 +1,13 @@
+.column-1 {
+  margin-left: 130px;
+  /* margin-top: 25px !important; */
+}
+.footer-main {
+  margin-top: 25px !important;
+}
+@media (max-width: 768px) {
+  .column-1 {
+    margin-left: 25px;
+    /* margin-top: 25px !important; */
+  }
+}
